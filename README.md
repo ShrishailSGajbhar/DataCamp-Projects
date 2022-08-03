@@ -1,3 +1,2 @@
-Data Science projects completed on DataCamp 
-
-Project-1: Analyzing TV data
+List of Projects:
+* Project-1: Analyzing TV data
